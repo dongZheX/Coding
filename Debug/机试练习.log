@@ -1,0 +1,13 @@
+﻿  /Zi 和 /Z7 均未指定；代码插装将添加 /Zi
+  代码插装正在添加 (/Ob0) 以关闭内联
+  采药 01背包问题.cpp
+采药 01背包问题.cpp(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+采药 01背包问题.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  正在对 采药 01背包问题.cpp 执行代码插装
+  Micro Focus Linker Driver v11.1.0.106
+  Copyright (c) Micro Focus 1997-2012. All rights reserved.
+  
+  机试练习.vcxproj -> G:\保研\机试练习\Debug\机试练习.exe
+  机试练习.vcxproj -> G:\保研\机试练习\Debug\机试练习.pdb (Full PDB)
